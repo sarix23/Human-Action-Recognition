@@ -60,9 +60,31 @@ This project demonstrates the process of developing neural networks for video cl
 
 ## References
 
-- [HMDB51 Dataset](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
-- [3D CNN for Video Classification](https://www.tensorflow.org/tutorials/video/video_classification)
-- [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](https://arxiv.org/abs/1411.4389)
+# References
+
+1. HMDB: A Large Human Motion Database. Available at: [https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
+
+2. Video Classification. Available at: [https://paperswithcode.com/task/video-classification](https://paperswithcode.com/task/video-classification)
+
+3. Karpathy, A., et al. (2015). "Large-scale Video Classification with Convolutional Neural Networks." Available at: [https://arxiv.org/abs/1505.06250](https://arxiv.org/abs/1505.06250)
+
+4. Introduction to Video Classification. Available at: [https://towardsdatascience.com/introduction-to-video-classification-6c6acbc57356](https://towardsdatascience.com/introduction-to-video-classification-6c6acbc57356)
+
+5. 3D Convolutional Neural Network: A Guide for Engineers. Available at: [https://www.neuralconcept.com/post/3d-convolutional-neural-network-a-guide-for-engineers](https://www.neuralconcept.com/post/3d-convolutional-neural-network-a-guide-for-engineers)
+
+6. Understanding 1D and 3D Convolution Neural Network (Keras). Available at: [https://towardsdatascience.com/understanding-1d-and-3d-convolution-neural-network-keras-9d8f76e29610](https://towardsdatascience.com/understanding-1d-and-3d-convolution-neural-network-keras-9d8f76e29610)
+
+7. 3D Convolutional Neural Network with Kaggle Lung Cancer Detection Competition. Available at: [https://eitca.org/artificial-intelligence/eitc-ai-dltf-deep-learning-with-tensorflow/3d-convolutional-neural-network-with-kaggle-lung-cancer-detection-competiton/running-the-network-3d-convolutional-neural-network-with-kaggle-lung-cancer-detection-competiton/examination-review-running-the-network-3d-convolutional-neural-network-with-kaggle-lung-cancer-detection-competiton/how-does-a-3d-convolutional-neural-network-differ-from-a-2d-network-in-terms-of-dimensions-and-strides/](https://eitca.org/artificial-intelligence/eitc-ai-dltf-deep-learning-with-tensorflow/3d-convolutional-neural-network-with-kaggle-lung-cancer-detection-competiton/running-the-network-3d-convolutional-neural-network-with-kaggle-lung-cancer-detection-competiton/examination-review-running-the-network-3d-convolutional-neural-network-with-kaggle-lung-cancer-detection-competiton/how-does-a-3d-convolutional-neural-network-differ-from-a-2d-network-in-terms-of-dimensions-and-strides/)
+
+8. Video Classification with a CNN-RNN Architecture. Available at: [https://www.tensorflow.org/tutorials/video/video_classification](https://www.tensorflow.org/tutorials/video/video_classification)
+
+9. Keras Applications. Available at: [https://keras.io/api/applications/](https://keras.io/api/applications/)
+
+10. Simonyan, K., & Zisserman, A. (2014). "Two-Stream Convolutional Networks for Action Recognition in Videos." Available at: [https://arxiv.org/abs/1411.4389?source=post_page](https://arxiv.org/abs/1411.4389?source=post_page)
+
+11. TimeDistributed Layer in Keras. Available at: [https://keras.io/api/layers/recurrent_layers/time_distributed/](https://keras.io/api/layers/recurrent_layers/time_distributed/)
+
+12. Action Recognition in Videos on HMDB-51. Available at: [https://paperswithcode.com/sota/action-recognition-in-videos-on-hmdb-51](https://paperswithcode.com/sota/action-recognition-in-videos-on-hmdb-51)
 
 ## Acknowledgments
 
