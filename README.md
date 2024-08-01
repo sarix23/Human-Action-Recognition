@@ -58,8 +58,6 @@ The models were able to classify the seven actions with varying degrees of accur
 
 This project demonstrates the process of developing neural networks for video classification under computational constraints. While the models achieved reasonable performance, there is room for improvement with more computational resources and further experimentation.
 
-## References
-
 # References
 
 1. HMDB: A Large Human Motion Database. Available at: [https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
